@@ -8,7 +8,7 @@ class Dictio
 {
   public:
   int arrSize;
-  Dictio(int type = 0, int size);
+  Dictio(int type=0);
   ~Dictio();
   bool addVar(String varName);
   bool setVar(String varName, String varValue);

@@ -1,5 +1,5 @@
 #include "Arduino.h"
-#include "Dictio.h"
+#include "dictio.h"
 
 //Whereas type = 0 is string -> string
 //        type = 1 is string -> int
