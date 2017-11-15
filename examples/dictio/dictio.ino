@@ -16,6 +16,8 @@ myDictio.setVar("myVar2", "o boi");   //Changing myVar2 value to "o boi"
 void loop() {
   // put your main code here, to run repeatedly:
 Serial.println(myDictio.getValue("myVar"));
+//Will print "myValue"
 delay(1000);
 Serial.println(myDictio.getValue("myVar2"));
+//Will print "o boi"
 }
