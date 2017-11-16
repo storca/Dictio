@@ -1,4 +1,6 @@
-#include "dictio.h"
+#include <Arduino.h>
+//There might be an issue with arduino Strings ; that's why I have included the Arduino.h here
+#include <Dictio.h>
 
 Dictio myDictio; //Object declaration
 
