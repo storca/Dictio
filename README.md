@@ -1,4 +1,7 @@
 # Dictio
+
+![alt text](https://travis-ci.org/storca/Dictio.svg?branch=master)
+
 Dictio is an Arduino library that provides a virtual dictionary data structure
 
 The library is not very efficient at the moment but I plan to edit it to make it more efficient (memory usage is too big).
